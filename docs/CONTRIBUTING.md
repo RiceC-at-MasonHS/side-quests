@@ -177,5 +177,7 @@ These sections are not necessary, but can help streamline the contributions you 
 
 ### Explain if you use any labeling conventions for issues.
 
+Hello world!
+
 > ## sources:
 > [nayafia/contributing-template](https://github.com/nayafia/contributing-template)
