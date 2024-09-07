@@ -16,3 +16,7 @@ h1{
     font-family: monospace;
     font-size: 10vh;
 }
+li{
+    /* list-style-type: none; */
+    margin: 10px 0;
+}
