@@ -1,5 +1,14 @@
+:root {
+    --primary-color: #cae9b7;
+    --secondary-color: #ffffff; /* Example value */
+    --accent-color: #ff5733; /* Example value */
+    --link-color: #9393ff; /* Example value */
+    --text-color: #000000; /* Example value */
+}
+
 body{
-    background-color: #cae9b7;
+    background-color: var(--primary-color);
+    color: var(--text-color);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -7,7 +16,13 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    line-height: 1.6rem;
+    min-height: 100vh;
+}
+a{
+    color: var(--text-color);
+    text-decoration: none;
+    border-bottom: var(--link-color) 3px dashed;
 }
 #page-container{
     max-width: 750px;
