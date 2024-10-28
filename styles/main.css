@@ -43,3 +43,9 @@ li{
     /* list-style-type: none; */
     margin: 10px 0;
 }
+
+.items{
+    padding-left: 1em;
+    margin-top: 0;
+    line-height: 2;
+}

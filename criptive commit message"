@@ -1,0 +1,70 @@
+[33mcommit 268e3c2c3af7106a0208cb052d49ed6336713cb6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Manny <usedforjunk11@gmail.com>
+Date:   Sun Oct 27 22:11:11 2024 -0400
+
+    Update README.md
+    
+    Signed-off-by: Manny <usedforjunk11@gmail.com>
+
+[33mcommit 00a933ae99d989fc6ac3e75ddfb05eaa4cdb800b[m
+Author: Manny <usedforjunk11@gmail.com>
+Date:   Sun Oct 27 22:11:01 2024 -0400
+
+    Update README.md
+    
+    Signed-off-by: Manny <usedforjunk11@gmail.com>
+
+[33mcommit 8514a086a4dcf37cefd36e9630da4c636a486441[m
+Merge: e053a53 2dd3113
+Author: cat <usedforjunk11@gmail.com>
+Date:   Sun Oct 27 22:09:43 2024 -0400
+
+    Update README.md
+
+[33mcommit e053a5363b1dab5c7f4c54798884e9441f20878c[m
+Author: cat <usedforjunk11@gmail.com>
+Date:   Sun Oct 27 22:08:53 2024 -0400
+
+    Update
+
+[33mcommit 2dd3113670ad0026979e250ba84057dc113a9fd7[m
+Author: Manny <usedforjunk11@gmail.com>
+Date:   Sun Oct 27 10:48:18 2024 -0400
+
+    Update README.md
+    
+    Signed-off-by: Manny <usedforjunk11@gmail.com>
+
+[33mcommit 46fef2225b472c6bac54a89c4389d2ee453f9b08[m
+Author: Manny <usedforjunk11@gmail.com>
+Date:   Sun Oct 27 10:47:57 2024 -0400
+
+    Update README.md
+    
+    Signed-off-by: Manny <usedforjunk11@gmail.com>
+
+[33mcommit 41d27a1e421f0e496fff9cc2c28c4dfe74ede272[m
+Author: Manny <usedforjunk11@gmail.com>
+Date:   Sun Oct 27 10:47:34 2024 -0400
+
+    Update README.md
+    
+    Signed-off-by: Manny <usedforjunk11@gmail.com>
+
+[33mcommit 6c79c31c00f76f2638eb6bdc5f707df9601a1406[m
+Author: Corey Rice <171101634+RiceC-at-MasonHS@users.noreply.github.com>
+Date:   Thu Oct 10 08:29:58 2024 -0400
+
+    [refactor] Advance HTML & CSS
+
+[33mcommit cccc534206a1966a713ccfc7656011cb03276555[m
+Author: Corey Rice <171101634+RiceC-at-MasonHS@users.noreply.github.com>
+Date:   Sat Sep 14 15:52:24 2024 -0400
+
+    send all links to a new tab
+
+[33mcommit ff5ecbccc2fb1fd5292cd23af3a2fd1af494ad8a[m
+Author: Corey Rice <171101634+RiceC-at-MasonHS@users.noreply.github.com>
+Date:   Sat Sep 14 14:06:35 2024 -0400
+
+    expanded short side-quest list
