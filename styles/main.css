@@ -7,19 +7,22 @@
 }
 
 .items{
-    padding-left: 1.05em;
+    padding-left: 0em;
     margin-top: 0;
     line-height: 2;
 }
 
-.item{
-    padding-left: 1.55em;
-    margin-top: 0;
-    line-height: 2;
+ol {
+    list-style: none;
 }
 
-.specialitem {
-    margin-left: 0.45em;
+ol li:before {
+    counter-increment: mycounter;
+    content: counter(mycounter) ". ";
+}
+
+ol:first-of-type {
+    counter-reset:  mycounter;
 }
 
 body{
